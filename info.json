@@ -1,4 +1,9 @@
 {
   "version": "1.2.0",
-  "timestamp": 1673045754
+  "timestamp": 1673045754,
+  "summary": {
+    "features": ["Creating pull requests"],
+    "improvements": ["Removing dependency to Dragooner CLI", "Improved unit testing behavior"],
+    "bugfixes": ["Incorrect flash image path for DH when using ARMCC"]
+  }
 }
