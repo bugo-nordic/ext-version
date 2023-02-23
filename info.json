@@ -1,5 +1,5 @@
 {
   "version": "1.2.0",
-  "timestamp": 1673045754,
-  "summary": "It brings new features, improvements and bugfixes."
+  "timestamp": 1677226415,
+  "summary": "It brings lots of new features including test_ble support and important bug fixes such as broken target debugging. Wanna check what's new?"
 }
